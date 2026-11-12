@@ -1,8 +1,6 @@
-# Project Name
+# UmCalc
 
-This is a template for AI-driven-development projects. This repo offers a particular structure and a set of instructions that works well for teaching AI how to work efficiently with its context, its human, and other resources.
-
-The use-case involves cloning this repo, then editing this README and the Kanban/other files to give the AI some guidance and then put it to work.
+This project is intended to create a tool for handling uncertainty budgets for calibration laboratories according to the GUM. The core feature is to evaluate the uncertainty of a measurement to the GUM. This core feature is used to help us calculate our Calibration Measurement Capabilities (CMCs) and the uncertainties of specific calibrations.
 
 # Repo Structure
 
@@ -16,7 +14,6 @@ The use-case involves cloning this repo, then editing this README and the Kanban
 | ./src/                   | Source code goes here.                                                                                |
 | ./bin/                   | Compiled executables go here.                                                                         |
 | ./data/                  | Data models, database schemas, migration scripts, and all documentation on data models and their use. |
-| ./Hardware/              | Physical components from the real world.                                                              |
 
 # Architecture
 
